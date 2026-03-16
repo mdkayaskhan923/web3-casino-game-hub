@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "spin71 build",
+    "deploy": "vercel --prod"
+  }
+}
